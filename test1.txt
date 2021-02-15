@@ -1,3 +1,13 @@
 test - git
 git - my git - new change
 changed - difference
+
+flow diagram
+
+	private branch1---------------------------------------------------------
+	|									|
+	|									|
+----- release=------master--- maser----release-----master----master-------master----- release
+	|			|
+	|-----------------------|
+	private branch2
