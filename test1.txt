@@ -9,3 +9,15 @@ Scenario 2
 Scenario 3
 
 branching in the git
+
+
+flow diagram
+
+	private branch1---------------------------------------------------------
+	|									|
+	|									|
+----- release=------master--- maser----release-----master----master-------master----- release
+	|			|
+	|-----------------------|
+	private branch2
+
